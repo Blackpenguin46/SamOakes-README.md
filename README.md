@@ -14,7 +14,7 @@ I'm a Junior studying cybersecurity. I have an interest in GRC and DevSecOps but
                     </p>
                 
   <a href="https://app.daily.dev/samueloakes"><img src="https://api.daily.dev/devcards/v2/Ufzyf8EWEWsMOVqiXioGk.png?r=ssd&type=wide" width="652" alt="Samuel Oakes's Dev Card"/></a>               
-  https://www.linkedin.com/in/samoakes123" 
+  https://www.linkedin.com/in/samoakes123
                    
 
 <!---
