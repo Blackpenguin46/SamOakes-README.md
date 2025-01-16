@@ -2,7 +2,7 @@
 
 ## Cybersecurity Student
 
-I'm a Junior studying cybersecurity with a focus on GRC and DevSecOps. I'm ISC2 CC Certified and have conducted research on energy grid infrastructure and post-quantum cybersecurity. I recently took 3rd place in the CCSC-E CTF challenge hosted by Virginia Cyber Range. I'm currently working toward my Security+ certification.
+I'm a Junior studying cybersecurity with a focus on GRC and DevSecOps. I'm ISC2 CC Certified and have conducted research on energy grid infrastructure and post-quantum cybersecurity. I recently took 3rd place in the CCSC-E CTF challenge hosted by Virginia Cyber Range and have participated in the HTB global univeristy CTF and Deloitte CTF. I'm currently working toward my Security+ certification.
 
 - ✉️  You can contact me at [samoakescyber@proton.me](mailto:samoakescyber@proton.me)
 - 🧠  I'm learning Defensive Cybersecurity, GRC, Forensic Computing, Operating Systems, and Usable Security.
