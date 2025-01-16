@@ -13,7 +13,7 @@ I'm a Junior studying cybersecurity with a focus on GRC and DevSecOps. I'm ISC2 
 ## 🛠️ Skills
 
 **Programming**: Python, SQL  
-**Tools**: Docker, VS Code, Linux, MySQL  
+**Tools**: Docker, VS Code, Linux(Kali, Ubuntu Distros), MySQL, Wireshark, ATT&CK framework, Metasploit
 **Certifications**: ISC2 CC, (upcoming Security+)  
 **Other**: GRC, DevSecOps, Quantum Computing, Cybersecurity Research
 
